@@ -2,7 +2,7 @@
   "name": "nft-gallery",
   "version": "0.1.0",
   "description": "NFT Gallery",
-  "author": "jupiter.softdev@gmail.com",
+  "author": "jupiter.softdev@gmail.com,",
   "homepage": ".",
   "engines": {
     "node": "14.17.3"
