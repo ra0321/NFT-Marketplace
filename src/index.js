@@ -13,7 +13,6 @@ ReactDOM.render(
         <App />
       </MarketplaceProvider>
     </CollectionProvider>
-  
   </Web3Provider>, 
   document.getElementById('root')
 );
